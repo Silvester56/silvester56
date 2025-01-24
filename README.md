@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, welcome to my profile
+
+I'm a web developper in my 30s, specialized in front end. My favourite tools to work with are VueJS and typescript.  
+I am also interested in game making and I'm currently learning Godot.  
+My website : [silvester56](https://silvester56.github.io)  
+My page on itch.io : [silvester56](https://silvester56.itch.io/)
 
 <!--
 **Silvester56/silvester56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
